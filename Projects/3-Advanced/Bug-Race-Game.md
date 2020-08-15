@@ -20,7 +20,7 @@ if you try to implement it using native language features.
 
 ## User Stories
 
--   [ ] User can see: 
+-   [x] User can see: 
     - An input panel containing controls to configure the game's UI and 
     operation.
     - A race track consisting of four horizontal lanes the bugs will travel in
@@ -29,23 +29,23 @@ if you try to implement it using native language features.
     - A 'Start' button.
 
 ### Game Controls
--   [ ] User can see the following controls in the input panel.
+-   [x] User can see the following controls in the input panel.
     - A list of race lane numbers with radio buttons for each showing
       thumbnails for three unique bugs, and a text box the user can use to 
       give the bug a name.
     - An Speed selection control with three radio buttons - Slow, Normal, Fast
--   [ ] User can click a radio button to select the bug icon to be assigned
+-   [x] User can click a radio button to select the bug icon to be assigned
 to a lane. 
--   [ ] User can see an warning message if the same icon is selected for more
+-   [x] User can see an warning message if the same icon is selected for more
 than one lane.
--   [ ] User can enter a name for the bug in each lane.
--   [ ] User can see an error message if the same name is repeated for more than
+-   [x] User can enter a name for the bug in each lane.
+-   [x] User can see an error message if the same name is repeated for more than
 one bug.
--   [ ] User can select the bug speed by clicking one of the Speed radio buttons
+-   [x] User can select the bug speed by clicking one of the Speed radio buttons
 
 ### Racing
 
--   [ ] User can select a potential winner by clicking on the radio button on
+-   [x] User can select a potential winner by clicking on the radio button on
 any lane.
 -   [ ] User can start a race by clicking on the 'Start' button
 -   [ ] User can see the 'Start' button is disabled until the race is over
