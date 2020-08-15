@@ -51,7 +51,7 @@ any lane.
 -   [x] User can see the 'Start' button is disabled until the race is over
 -   [ ] User can see an error message if no winner was selected.
 -   [x] User can see bugs race across their assigned lane to the finish line
--   [ ] User can see all bugs stop moving when the first one reaches the finish
+-   [x] User can see all bugs stop moving when the first one reaches the finish
 line
 -   [ ] User can see game metrics updated to show the number of races run in
 this session.
