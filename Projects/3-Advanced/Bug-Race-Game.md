@@ -62,7 +62,8 @@ this session.
 run, number of wins, and number of losses.
 -   [ ] User can see the winning bug bounce when it wins a race
 -   [ ] User can see loosing bugs flip on their backs when they loose a race
--   [ ] User can hear unique sounds played when the race starts and ends.
+-   [ ] User can hear unique sounds played when the race starts and ends
+-   [ ] User can bet on winner of race
 
 ## Useful links and resources
 
