@@ -47,10 +47,10 @@ one bug.
 
 -   [x] User can select a potential winner by clicking on the radio button on
 any lane.
--   [ ] User can start a race by clicking on the 'Start' button
--   [ ] User can see the 'Start' button is disabled until the race is over
+-   [x] User can start a race by clicking on the 'Start' button
+-   [x] User can see the 'Start' button is disabled until the race is over
 -   [ ] User can see an error message if no winner was selected.
--   [ ] User can see bugs race across their assigned lane to the finish line
+-   [x] User can see bugs race across their assigned lane to the finish line
 -   [ ] User can see all bugs stop moving when the first one reaches the finish
 line
 -   [ ] User can see game metrics updated to show the number of races run in
